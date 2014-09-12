@@ -1,0 +1,17 @@
+Dear developer,
+
+We have discovered one or more issues with your recent submission for "慈云健康". To process your submission, the following issues must be corrected:
+
+Improper Advertising Identifier [IDFA] Usage - Your app contains the Advertising Identifier [IDFA] API but you have not indicated its usage on the Prepare for Submission page in iTunes Connect.
+
+Once these issues have been corrected, use Xcode or Application Loader to upload a new binary to iTunes Connect. Choose the new binary on the app’s Details page in My Apps on iTunes Connect, and click Submit for Review.
+
+Regards,
+
+The App Store team
+
+
+
+
+需要选择Advertising Identifier [IDFA] Usage  这个YES
+其他的选择可以为NO
