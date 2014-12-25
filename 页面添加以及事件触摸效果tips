@@ -1,0 +1,3 @@
+添加页面，最好做到每个view单独分开，添加到controller中，view中添加代理，controller中进行实现，如果在view中进行嵌套另一个view，那么touch触摸事件
+传递点击效果不是很迅速，反映到按钮点击的效果上，就看不出很明显的按下效果，没有及时的效果；另外UIimageview默认的userInteractionEnabled默认就是NO，
+因此UIImageView以及它的子控件默认是不能接收触摸事件的
