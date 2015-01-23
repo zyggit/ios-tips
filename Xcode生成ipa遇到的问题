@@ -8,3 +8,8 @@
     一般的：debug选择yes release选择no
     
     
+3，有关证书问题
+    在本机钥匙串访问中向苹果请求CertificateSigningRequest.certSigningRequest 电脑相关的签名证书时，常用名称处填写的内容，将成为
+    私有密钥的名称；每台计算机请求下来的证书都会带有一个termid；建议在一台机器上请求生成开发证书之后，其他的电脑可以直接使用
+    生成的.p12文件
+    
