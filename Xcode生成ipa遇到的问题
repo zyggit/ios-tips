@@ -5,6 +5,6 @@
                                     选择NO 就是编译你选中的即将要编译指令集合里的所有框架
                                     选择YES 就生成一个指令集
     Valid architectures：即将编译的指令集，将要加进去的指令集；
-    
+    一般的：debug选择yes release选择no
     
     
